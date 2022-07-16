@@ -1,0 +1,10 @@
+.counter-container{
+	display: flex;
+	flex-direction: column;
+	margin-left: 600px;
+	margin-right: 600px;
+	text-align: center;
+	box-shadow: 3px 3px red, -1em 0 .4em olive;
+	align-items: center;
+	padding:3em;
+}
